@@ -1,0 +1,13 @@
+streamlit
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
+tensorflow
+datasets
+llama-index==0.8.2.post1
+streamlit_chat
